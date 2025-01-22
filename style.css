@@ -76,7 +76,6 @@ section {
 .justify-content-between{
     justify-content: space-between;
     background-color: rgb(12, 12, 44);
-
 }
 .w-20 {
     width: 20%;
@@ -178,7 +177,7 @@ footer {
 
 #ft-container-small {
     height: 60px;
-    margin-top: 20px;
+    margin-top: 1px;
     padding-top: 15px;
 }
 
@@ -196,4 +195,8 @@ footer {
 .row-container-darkgray{
     width: 100%;
     background-color: #23272a;
+}
+
+.h-450 {
+    height: 450px;
 }
